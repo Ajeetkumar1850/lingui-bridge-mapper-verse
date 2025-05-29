@@ -1,42 +1,53 @@
-# 🌟 Lovable Project
+# 🌟 React + TypeScript Web Application
 
-Welcome to your Lovable project repository! This project is powered by modern web development tools and hosted via [Lovable](https://lovable.dev), a prompt-driven development platform for building beautiful, fast applications.
-
----
-
-## 📍 Project Info
-
-**Project URL**: [https://lovable.dev/projects/8da12c25-a3cb-4fbf-9ba8-a52a382fa30d](https://lovable.dev/projects/8da12c25-a3cb-4fbf-9ba8-a52a382fa30d)
+This is a modern web application built using React, TypeScript, Tailwind CSS, and shadcn/ui. The project is designed for performance, scalability, and rapid development using a component-driven approach.
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 Project Description
 
-This project uses:
+This application provides a responsive and interactive user interface with a focus on usability and design. It leverages the latest frontend technologies to deliver a seamless user experience.
 
-- **Vite** – Lightning-fast development environment
-- **TypeScript** – Strongly typed JavaScript
-- **React** – Declarative component-based UI library
-- **shadcn/ui** – Accessible and beautiful UI components
+Key features include:
+
+- ⚛️ Component-based architecture using React
+- 🎨 Clean, modern design with Tailwind CSS
+- 🧩 Accessible and customizable UI with shadcn/ui
+- ⚡ Fast bundling and development with Vite
+- 🔒 Strong typing and developer confidence with TypeScript
+
+---
+
+## 🛠 Tech Stack
+
+- **React** – UI library for building user interfaces
+- **TypeScript** – Superset of JavaScript for static typing
+- **Vite** – Lightning-fast dev server and build tool
 - **Tailwind CSS** – Utility-first CSS framework
+- **shadcn/ui** – Styled and accessible components library
 
 ---
 
-## ✏️ How to Edit This Project
+## 🚀 Getting Started
 
- 💻 Edit Locally in Your IDE
+To run this project locally, follow the steps below:
 
-> Make sure Node.js & npm are installed. Install using [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) if needed.
+### Prerequisites
+
+- Node.js and npm installed  
+  (Recommended: install via [nvm](https://github.com/nvm-sh/nvm#installing-and-updating))
+
+### Steps
 
 ```bash
-# Clone the repository
+# Step 1: Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Navigate to the project directory
+# Step 2: Navigate into the project directory
 cd <YOUR_PROJECT_NAME>
 
-# Install dependencies
+# Step 3: Install dependencies
 npm install
 
-# Start the development server
+# Step 4: Start the development server
 npm run dev
