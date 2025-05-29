@@ -24,17 +24,7 @@ This project uses:
 
 ## ✏️ How to Edit This Project
 
-Choose one of the following methods to make changes:
-
-### 1. 🧠 Edit in Lovable (Recommended)
-
-- Go to your [Lovable Project](https://lovable.dev/projects/8da12c25-a3cb-4fbf-9ba8-a52a382fa30d)
-- Start prompting to update code instantly
-- All changes are auto-committed to this repo
-
----
-
-### 2. 💻 Edit Locally in Your IDE
+ 💻 Edit Locally in Your IDE
 
 > Make sure Node.js & npm are installed. Install using [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) if needed.
 
